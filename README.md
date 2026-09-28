@@ -1,12 +1,12 @@
-# SporeAI 心智娘模型社区
+# Spore AI模型开放社区
 
-心智娘 YSM 模型分享、二次创作与投稿仓库，由霜星维护。
+面向 Spore AI 心智娘与九大灾厄的 YSM 模型分享、二次创作与投稿社区，由霜星维护。
 
 本仓库开放模型资源，不包含 SporeAI 主模组或外观附属的 Java 源码、构建工程和源码压缩包。
 
 ## 下载与使用
 
-[下载外观附属与心智娘模型包](https://github.com/sx050907-png/SporeAI-MindGirl-Models/releases)
+[下载外观附属与心智娘模型包](https://github.com/sx050907-png/Spore-AI-Model-Community/releases)
 
 - 外观附属：`spore_ai_ysm-1.0.0-beta.1.jar`，放入客户端 `mods` 文件夹。内含 10 套心智娘与九灾厄及其状态，共 67 个模型目录。
 - 仅心智娘模型：下载 `SporeAI-MindGirl-Models-1.0.0-beta.1.zip`，将其中 10 个模型目录解压到 `config/yes_steve_model/custom/`，避免多套一层目录。
@@ -14,19 +14,29 @@
 - 首次进入世界等待 YSM 编译、同步后按 F8，选择心智娘模型。未安装 YSM 时 F8 不打开外观界面。
 - 附属自动安装模型；同名本地模型存在修改时整套保留。采用新版本前可把对应旧目录移到 `custom` 外备份，勿清空第三方模型。卸载附属不会自动删除已导出的模型。
 
-## 当前模型
+## 心智娘模型
 
-温柔共生 v1、温柔共生发饰版 v2、春日共生、菌花巡游、暮色守望、绯樱和风、晨光学园、林间旅装、菌伞轻裙、孢子学院裙。
+10 套服装：温柔共生 v1、温柔共生发饰版 v2、春日共生、菌花巡游、暮色守望、绯樱和风、晨光学园、林间旅装、菌伞轻裙、孢子学院裙。
 
-查看 [模型介绍](docs/模型介绍.md) 与 [模型目录](models/official)。九灾厄完整模型随附属 JAR 提供。
+[阅读心智娘服装介绍](docs/心智娘模型介绍.md) · [浏览可编辑模型](models/official)
+
+心智娘模型可在 F8 界面按心智分别选择；可下载独立模型包，也可通过附属自动安装。
+
+## 九大灾厄模型
+
+Sieger（攻城者）、Howitzer、Stahl（蚀刃魔）、Hohlfresser、Gazenbreacher、Kraken、Leviathan、Hindenburg、Verfall（朽翼魔）。
+
+[阅读九大灾厄介绍](docs/灾厄模型介绍.md) · [下载包含灾厄模型的外观附属](https://github.com/sx050907-png/Spore-AI-Model-Community/releases)
+
+九种灾厄连同状态变体共 57 个模型目录，随附属 JAR 提供。各自拥有对应的服装、特征与动作适配，用于灾厄实体，不作为心智娘服装显示在 F8 列表中。
 
 ![F8 游戏内界面](docs/F8实机截图.png)
 
 ## 投稿
 
-欢迎原创心智娘服装、发饰与孢子主题模型！请先阅读 [投稿协议](CONTRIBUTING.md)。
+欢迎原创心智娘服装、灾厄外观、发饰与孢子主题模型！请先阅读 [投稿协议](CONTRIBUTING.md)。
 
-推荐 Fork 后把模型放入 `models/community/<作者>/<模型ID>/` 并提交 Pull Request。不会使用 Git 的作者可以通过 [模型投稿 Issue](https://github.com/sx050907-png/SporeAI-MindGirl-Models/issues/new?template=model-submission.yml) 提交文件下载链接、预览和授权信息。投稿经维护者审核后收录，不自动进入附属发行版。
+推荐 Fork 后把模型放入 `models/community/<作者>/<模型ID>/` 并提交 Pull Request。不会使用 Git 的作者可以通过 [模型投稿 Issue](https://github.com/sx050907-png/Spore-AI-Model-Community/issues/new?template=model-submission.yml) 提交文件下载链接、预览和授权信息。投稿经维护者审核后收录，不自动进入附属发行版。
 
 ## 作者与许可
 

@@ -1,5 +1,5 @@
 name: 模型投稿
-description: 提交心智娘模型、预览及授权信息
+description: 提交心智娘或灾厄模型、预览及授权信息
 title: "[模型投稿] "
 body:
   - type: textarea
