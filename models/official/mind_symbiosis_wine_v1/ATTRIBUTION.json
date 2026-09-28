@@ -1,0 +1,119 @@
+{
+  "name": "心智娘 · 温柔共生（酒狐改版 v1）",
+  "tips": "心智娘与酒狐深入交流了一段时间，学会了搭配衣装，也把这份相处的回忆融入了自己的新模样。浅色长发间的小小菌花，仍诉说着她与菌群共生的身份。",
+  "license": {
+    "type": "CC BY-NC-SA 4.0"
+  },
+  "authors": [
+    {
+      "name": "完美冻结",
+      "role": "模型原作",
+      "avatar": "avatar/wmdj.jpg",
+      "contact": {
+        "Afdian": "https://afdian.com/a/6TGESILA",
+        "Bilibili": "https://space.bilibili.com/17798027"
+      },
+      "comment": "OwO"
+    },
+    {
+      "name": "星屑海螺",
+      "role": "动画原作",
+      "avatar": "avatar/hl.png",
+      "contact": {
+        "Afdian": "https://afdian.com/a/lucia2048",
+        "Bilibili": "https://space.bilibili.com/14975572"
+      },
+      "comment": "漂泊于群星之中"
+    },
+    {
+      "name": "哥斯拉（映素团队）",
+      "role": "模型修改",
+      "avatar": "avatar/gsl.png",
+      "contact": {
+        "Afdian": "https://afdian.com/a/6TGESILA",
+        "Bilibili": "https://space.bilibili.com/17798027"
+      },
+      "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+    },
+    {
+      "name": "白帆小喵",
+      "role": "新版材质",
+      "avatar": "avatar/bfxm.jpg",
+      "comment": "一只爱玩mc的小猫咪罢了qwq",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/492836494"
+      }
+    },
+    {
+      "name": "蓝玫瑰",
+      "role": "UI 材质/贴图",
+      "avatar": "avatar/lmg.png",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/11814817"
+      },
+      "comment": "8月24号，传奇永不落幕"
+    },
+    {
+      "name": "墨染逝羽",
+      "role": "面具模型",
+      "avatar": "avatar/mrsy.png",
+      "comment": "事到如今，先摸鱼吧",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/5718046"
+      }
+    },
+    {
+      "name": "Maks怜悯",
+      "role": "载具模型",
+      "avatar": "avatar/maks.jpg",
+      "comment": "ysm人偶制作中～",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/352177387"
+      }
+    },
+    {
+      "name": "浅陌菌",
+      "role": "模型修改",
+      "avatar": "avatar/nico.png",
+      "comment": "最美好的前途，可不要对我冷酷",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/14975572"
+      }
+    },
+    {
+      "name": "祸御神",
+      "role": "动画修改",
+      "avatar": "avatar/hys.png",
+      "comment": "五十代精神病人",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/164557734"
+      }
+    },
+    {
+      "name": "羊毛",
+      "role": "音效/动画修改",
+      "avatar": "avatar/wool.png",
+      "comment": "喵喵喵喵",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/85335217"
+      }
+    },
+    {
+      "name": "星海境",
+      "avatar": "avatar/xinghai.png",
+      "role": "模型&动画修改",
+      "contact": {
+        "Bilibili": "https://space.bilibili.com/66634439"
+      },
+      "comment": "繁星凝望着海洋，海洋拥抱着风帆"
+    },
+    {
+      "name": "霜星",
+      "role": "心智娘改版作者"
+    }
+  ],
+  "link": {
+    "home": "https://modrinth.com/mod/yes-steve-model",
+    "donate": "https://afdian.com/a/ysmmod"
+  }
+}

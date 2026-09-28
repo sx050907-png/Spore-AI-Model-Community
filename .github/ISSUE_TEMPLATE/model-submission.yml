@@ -1,0 +1,32 @@
+name: 模型投稿
+description: 提交心智娘模型、预览及授权信息
+title: "[模型投稿] "
+body:
+  - type: textarea
+    id: model
+    attributes:
+      label: 模型名称、简介与下载链接
+      description: 提供可访问的文件链接及预览图片，请勿提交模组源码。
+    validations:
+      required: true
+  - type: textarea
+    id: attribution
+    attributes:
+      label: 作者、上游来源与许可证明
+      description: 写明原创或改作，列出素材作者、授权链接和修改内容。
+    validations:
+      required: true
+  - type: textarea
+    id: testing
+    attributes:
+      label: 测试版本、动作表现与已知问题
+      description: 未实机测试请明确说明。
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 投稿确认
+      options:
+        - label: 我已阅读 CONTRIBUTING.md，有权分发所含素材，同意按 CC BY-NC-SA 4.0 公开并收录到免费附属发行版，保留完整署名。
+          required: true

@@ -1,0 +1,20 @@
+{
+  "metadata.name": "心智娘 · 温柔共生（酒狐改版 v1）",
+  "metadata.tips": "心智娘与酒狐深入交流了一段时间，终于决定把白红裙装带回菌群。狐耳和尾巴没有学会，迎接你的笑容倒是练习了很久。至于那句“欢迎回来”——她说，只对你使用。",
+  "properties.extra_animation.extra0": "变身",
+  "properties.extra_animation.extra1": "打招呼",
+  "properties.extra_animation.extra2": "鼓掌",
+  "properties.extra_animation.extra4": "乱舞",
+  "properties.extra_animation.extra5": "卖萌",
+  "properties.extra_animation.extra6": "御币摇",
+  "properties.extra_animation.extra7": "舞蹈",
+  "files.player.texture.skin": "默认",
+  "files.player.texture.skin_white": "雪狐",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.title": "尾巴发光",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.description": "发光&不发光",
+  "properties.extra_animation.extra3": "尾巴发光~",
+  "metadata.authors.0.name": "完美冻结",
+  "metadata.authors.0.role": "原模型作者",
+  "metadata.authors.1.name": "霜星",
+  "metadata.authors.1.role": "服装与角色改作"
+}

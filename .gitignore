@@ -1,0 +1,12 @@
+*.jar
+*.class
+*.java
+*.kt
+*.gradle
+*.gradle.kts
+.gradle/
+build/
+.env
+*.key
+*.pem
+*Source.zip

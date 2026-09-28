@@ -1,0 +1,20 @@
+{
+  "metadata.name": "心智娘 · 绯樱和风",
+  "metadata.tips": "心智娘与酒狐深入交流了一段时间，学会了振袖该怎么穿，也学会了走路时要慢一点。她说这是为了不踩到衣摆；可每次人群一挤，她就会顺势牵住你的手。菌群档案将此记为“防走失措施”。",
+  "properties.extra_animation.extra0": "变身",
+  "properties.extra_animation.extra1": "打招呼",
+  "properties.extra_animation.extra2": "鼓掌",
+  "properties.extra_animation.extra4": "乱舞",
+  "properties.extra_animation.extra5": "卖萌",
+  "properties.extra_animation.extra6": "御币摇",
+  "properties.extra_animation.extra7": "舞蹈",
+  "files.player.texture.skin": "默认",
+  "files.player.texture.skin_white": "雪狐",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.title": "尾巴发光",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.description": "发光&不发光",
+  "properties.extra_animation.extra3": "尾巴发光~",
+  "metadata.authors.0.name": "完美冻结",
+  "metadata.authors.0.role": "原模型作者",
+  "metadata.authors.1.name": "霜星",
+  "metadata.authors.1.role": "服装与角色改作"
+}

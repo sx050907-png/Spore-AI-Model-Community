@@ -1,0 +1,20 @@
+{
+  "metadata.name": "心智娘 · 暮色守望",
+  "metadata.tips": "暮色落下，她把贝雷帽压得端端正正，宣布今晚由自己值夜。敌人的动静没漏掉，你偷偷熬夜的动静也没漏掉。“核心需要休息，指挥官也一样。”——查寝范围，覆盖全菌群。",
+  "properties.extra_animation.extra0": "变身",
+  "properties.extra_animation.extra1": "打招呼",
+  "properties.extra_animation.extra2": "鼓掌",
+  "properties.extra_animation.extra4": "乱舞",
+  "properties.extra_animation.extra5": "卖萌",
+  "properties.extra_animation.extra6": "御币摇",
+  "properties.extra_animation.extra7": "舞蹈",
+  "files.player.texture.skin": "默认",
+  "files.player.texture.skin_white": "雪狐",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.title": "尾巴发光",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.description": "发光&不发光",
+  "properties.extra_animation.extra3": "尾巴发光~",
+  "metadata.authors.0.name": "完美冻结",
+  "metadata.authors.0.role": "原模型作者",
+  "metadata.authors.1.name": "霜星",
+  "metadata.authors.1.role": "服装与角色改作"
+}

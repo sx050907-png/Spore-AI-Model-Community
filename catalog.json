@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "mind_symbiosis_academy_study",
+      "path": "models/official/mind_symbiosis_academy_study",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_academy_study/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_umbrella_study",
+      "path": "models/official/mind_symbiosis_umbrella_study",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_umbrella_study/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_academy",
+      "path": "models/official/mind_symbiosis_wine_academy",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_academy/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_cape",
+      "path": "models/official/mind_symbiosis_wine_cape",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_cape/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_kimono",
+      "path": "models/official/mind_symbiosis_wine_kimono",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_kimono/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_night",
+      "path": "models/official/mind_symbiosis_wine_night",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_night/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_ranger",
+      "path": "models/official/mind_symbiosis_wine_ranger",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_ranger/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_spring",
+      "path": "models/official/mind_symbiosis_wine_spring",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_spring/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_v1",
+      "path": "models/official/mind_symbiosis_wine_v1",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_v1/ATTRIBUTION.json"
+    },
+    {
+      "id": "mind_symbiosis_wine_v2",
+      "path": "models/official/mind_symbiosis_wine_v2",
+      "license": "CC-BY-NC-SA-4.0",
+      "authors": [
+        "完美冻结",
+        "霜星"
+      ],
+      "full_attribution": "models/official/mind_symbiosis_wine_v2/ATTRIBUTION.json"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "你的模型名称",
+  "authors": [
+    {
+      "name": "作者名",
+      "role": "原创或改作",
+      "source": "作品来源链接"
+    }
+  ],
+  "license": "CC-BY-NC-SA-4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "upstream": [],
+  "changes": "描述本次制作或修改",
+  "tested_with": {
+    "minecraft": "1.21.1",
+    "ysm": "2.6.5-neoforge+mc1.21.1"
+  },
+  "known_issues": "如实注明测试范围及问题"
+}

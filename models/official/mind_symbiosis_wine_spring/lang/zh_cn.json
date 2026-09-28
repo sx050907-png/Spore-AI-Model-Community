@@ -1,0 +1,20 @@
+{
+  "metadata.name": "心智娘 · 春日共生",
+  "metadata.tips": "春天到了，她换上轻裙，邀请你去看菌花。“只是顺路巡查。”可路线绕过了所有战场，终点还恰好是两个人坐得下的草地。今天的菌群任务，大概叫约会。",
+  "properties.extra_animation.extra0": "变身",
+  "properties.extra_animation.extra1": "打招呼",
+  "properties.extra_animation.extra2": "鼓掌",
+  "properties.extra_animation.extra4": "乱舞",
+  "properties.extra_animation.extra5": "卖萌",
+  "properties.extra_animation.extra6": "御币摇",
+  "properties.extra_animation.extra7": "舞蹈",
+  "files.player.texture.skin": "默认",
+  "files.player.texture.skin_white": "雪狐",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.title": "尾巴发光",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.description": "发光&不发光",
+  "properties.extra_animation.extra3": "尾巴发光~",
+  "metadata.authors.0.name": "完美冻结",
+  "metadata.authors.0.role": "原模型作者",
+  "metadata.authors.1.name": "霜星",
+  "metadata.authors.1.role": "服装与角色改作"
+}

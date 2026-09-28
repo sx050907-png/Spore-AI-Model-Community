@@ -1,0 +1,20 @@
+{
+  "metadata.name": "心智娘 · 春日共生",
+  "metadata.tips": "Spring has arrived, and she puts on a light dress to invite you to see the fungal flowers. Just a routine patrol, apparently. The route avoids every battlefield and ends at a grassy spot with room for two. Today’s colony assignment may be a date.",
+  "properties.extra_animation.extra0": "Transform",
+  "properties.extra_animation.extra1": "Wave",
+  "properties.extra_animation.extra2": "Clap",
+  "properties.extra_animation.extra3": "Tail Glow~",
+  "properties.extra_animation.extra4": "Wild Dance",
+  "properties.extra_animation.extra5": "Cute Pose",
+  "properties.extra_animation.extra6": "Gohei Waving",
+  "properties.extra_animation.extra7": "Dance",
+  "files.player.texture.skin": "Default",
+  "files.player.texture.skin_white": "Snow Fox",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.title": "Tail Glow",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.description": "Glow & No Glow",
+  "metadata.authors.0.name": "完美冻结",
+  "metadata.authors.0.role": "Original model",
+  "metadata.authors.1.name": "霜星",
+  "metadata.authors.1.role": "Outfit and character adaptation"
+}

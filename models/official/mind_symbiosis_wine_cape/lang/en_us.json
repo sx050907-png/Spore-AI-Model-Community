@@ -1,0 +1,20 @@
+{
+  "metadata.name": "心智娘 · 菌花巡游",
+  "metadata.tips": "Her little cape is straightened and the fungal flowers are ready. She calls the trip a symbiotic habitat survey. The itinerary contains exactly three items: take a walk, find you, and take a walk with you. Apparently she already knows what the survey will discover.",
+  "properties.extra_animation.extra0": "Transform",
+  "properties.extra_animation.extra1": "Wave",
+  "properties.extra_animation.extra2": "Clap",
+  "properties.extra_animation.extra3": "Tail Glow~",
+  "properties.extra_animation.extra4": "Wild Dance",
+  "properties.extra_animation.extra5": "Cute Pose",
+  "properties.extra_animation.extra6": "Gohei Waving",
+  "properties.extra_animation.extra7": "Dance",
+  "files.player.texture.skin": "Default",
+  "files.player.texture.skin_white": "Snow Fox",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.title": "Tail Glow",
+  "properties.extra_animation_buttons.尾巴发光.config_forms.0.description": "Glow & No Glow",
+  "metadata.authors.0.name": "完美冻结",
+  "metadata.authors.0.role": "Original model",
+  "metadata.authors.1.name": "霜星",
+  "metadata.authors.1.role": "Outfit and character adaptation"
+}

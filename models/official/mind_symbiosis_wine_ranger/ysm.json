@@ -1,0 +1,114 @@
+{
+  "spec": 2,
+  "metadata": {
+    "name": "心智娘 · 林间旅装",
+    "tips": "她换上短外套，准备带你去林间看看。“补给已经齐了。”她数过菌群，也检查过沿途的路，最后才把目光落在你身上——原来出发清单里，最不能落下的是同行的人。",
+    "license": {
+      "type": "CC BY-NC-SA 4.0"
+    },
+    "authors": [
+      {
+        "name": "完美冻结",
+        "role": "原模型作者"
+      },
+      {
+        "name": "霜星",
+        "role": "服装与角色改作"
+      }
+    ]
+  },
+  "properties": {
+    "extra_animation": {
+      "extra1": "打招呼",
+      "extra2": "鼓掌",
+      "extra5": "卖萌",
+      "extra8": "摇曲柄（右手）",
+      "extra9": "摇曲柄（左手）"
+    },
+    "preview_animation": "idle",
+    "disable_preview_rotation": false,
+    "free": true,
+    "height_scale": 0.7,
+    "width_scale": 0.7,
+    "render_layers_first": false,
+    "all_cutout": false,
+    "gui_no_lighting": false,
+    "extra_animation_buttons": []
+  },
+  "files": {
+    "player": {
+      "model": {
+        "main": "models/main.json",
+        "arm": "models/arm.json"
+      },
+      "animation": {
+        "main": "animations/main.animation.json",
+        "extra": "animations/extra.animation.json",
+        "tac": "animations/tac.animation.json",
+        "carryon": "animations/carryon.animation.json",
+        "tlm": "animations/tlm.animation.json",
+        "fp_arm": "animations/fp.arm.animation.json",
+        "irons_spell_books": "animations/iss.animation.json"
+      },
+      "animation_controllers": [
+        "controller/wine_fox.animation_controllers.json"
+      ],
+      "texture": [
+        {
+          "uv": "textures/symbiosis.png"
+        }
+      ]
+    },
+    "projectiles": [
+      {
+        "model": "models/arrow.json",
+        "animation": "animations/arrow.animation.json",
+        "texture": {
+          "uv": "textures/arrow.png"
+        },
+        "match": [
+          "minecraft:arrow"
+        ]
+      },
+      {
+        "model": "models/trident.json",
+        "texture": {
+          "uv": "textures/trident.png"
+        },
+        "match": [
+          "minecraft:trident"
+        ]
+      }
+    ],
+    "vehicles": [
+      {
+        "model": "models/horse.json",
+        "texture": {
+          "uv": "textures/horse.png"
+        },
+        "animation": "animations/vehicle/horse.animation.json",
+        "match": [
+          "minecraft:horse"
+        ]
+      },
+      {
+        "model": "models/minecart.json",
+        "texture": {
+          "uv": "textures/minecart.png"
+        },
+        "match": [
+          "minecraft:minecart"
+        ]
+      },
+      {
+        "model": "models/boat.json",
+        "texture": {
+          "uv": "textures/boat.png"
+        },
+        "match": [
+          "minecraft:boat"
+        ]
+      }
+    ]
+  }
+}
