@@ -1,4 +1,4 @@
-name: 模型投稿
+name: YSM 模型投稿
 description: 提交心智娘或灾厄模型、预览及授权信息
 title: "[模型投稿] "
 body:
@@ -29,4 +29,6 @@ body:
       label: 投稿确认
       options:
         - label: 我已阅读 CONTRIBUTING.md，有权分发所含素材，同意按 CC BY-NC-SA 4.0 公开并收录到免费附属发行版，保留完整署名。
+          required: true
+        - label: 我已检查附件、预览与链接，遵守 CONTRIBUTING.md 内容规范，不含违规、侵权、隐私或恶意程序；理解 Issue 公开可见且须经人工审核。
           required: true

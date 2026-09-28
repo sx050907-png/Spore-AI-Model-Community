@@ -1,0 +1,69 @@
+name: 非 YSM 模型投稿
+description: 提交 Blockbench、Blender、glTF、FBX、OBJ、PMX 等模型资源
+title: "[非 YSM 投稿] "
+body:
+  - type: markdown
+    attributes:
+      value: "请先阅读 [投稿说明](https://github.com/sx050907-png/Spore-AI-Model-Community/blob/main/docs/非YSM模型投稿.md) 和 [协议及内容规范](https://github.com/sx050907-png/Spore-AI-Model-Community/blob/main/CONTRIBUTING.md)。本 Issue 公开可见，提交不代表已收录或能直接在游戏中使用。"
+  - type: input
+    id: name
+    attributes:
+      label: 模型名称与作者
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 角色分类
+      options:
+        - 心智娘
+        - 九大灾厄
+        - 相关服装或配饰
+    validations:
+      required: true
+  - type: input
+    id: format
+    attributes:
+      label: 文件格式与制作软件版本
+      placeholder: "例如 .bbmodel / Blockbench 版本号"
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: 模型文件或下载链接
+      description: 将模型及必要贴图打包为 ZIP，拖入支持的附件或粘贴下载链接。禁止程序、脚本、隐私和违规文件。
+    validations:
+      required: true
+  - type: textarea
+    id: preview
+    attributes:
+      label: 模型介绍与预览
+      description: 请附正面、侧面、背面图片，并介绍作品特点。
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: 原创声明、上游来源与授权
+      description: 列出作者、贴图和动画等素材来源、许可链接、授权证明与改动；原创也需明确声明。
+    validations:
+      required: true
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: 骨骼、动画、适配状态及已知问题
+      description: 写明是否含骨骼或动画、是否测试或转换；未测试请注明，不能直接使用也可投稿。
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 投稿确认
+      options:
+        - label: 我已阅读 CONTRIBUTING.md，有权分发全部素材，同意按 CC BY-NC-SA 4.0 公开及按协议改作、收录和免费分发，并保留完整署名。
+          required: true
+        - label: 我已检查附件、预览及外部链接，不包含违规、侵权、隐私信息、恶意程序或自动执行脚本。
+          required: true
+        - label: 我理解投稿公开可见，须经人工审核，收录不等于已适配 YSM 或必定进入附属发行版。
+          required: true

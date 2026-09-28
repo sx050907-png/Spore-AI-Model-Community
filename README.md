@@ -2,7 +2,7 @@
 
 **[查看全部模型图片 → 模型图鉴](docs/模型图鉴.md)**
 
-面向 Spore AI 心智娘与九大灾厄的 YSM 模型分享、二次创作与投稿社区，由霜星维护。
+面向 Spore AI 心智娘与九大灾厄的 YSM 与其他格式模型分享、二次创作与投稿社区，由霜星维护。
 
 本仓库开放模型资源，不包含 SporeAI 主模组或外观附属的 Java 源码、构建工程和源码压缩包。
 
@@ -35,6 +35,10 @@ Sieger（攻城者）、Howitzer、Stahl（蚀刃魔）、Hohlfresser、Gazenbre
 ![F8 游戏内界面](docs/F8实机截图.png)
 
 ## 投稿
+
+**[YSM 模型投稿](https://github.com/sx050907-png/Spore-AI-Model-Community/issues/new?template=model-submission.yml) · [非 YSM 模型投稿](https://github.com/sx050907-png/Spore-AI-Model-Community/issues/new?template=non-ysm-model.yml)**
+
+Blockbench、Blender、glTF、FBX、OBJ、PMX 等模型也可投稿，详见 [非 YSM 投稿说明](docs/非YSM模型投稿.md)。非 YSM 资源单独审核、分类存放，不能直接放入当前 F8 模型列表。所有投稿禁止违规与侵权内容，须遵守 [统一协议与内容规范](CONTRIBUTING.md)。
 
 欢迎原创心智娘服装、灾厄外观、发饰与孢子主题模型！请先阅读 [投稿协议](CONTRIBUTING.md)。
 
